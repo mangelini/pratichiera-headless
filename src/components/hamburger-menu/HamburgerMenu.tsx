@@ -2,8 +2,7 @@
 
 import {Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger} from "@/components/ui/sheet";
 import {Button} from "@/components/ui/button";
-import {MenuIcon, ChevronDown, ChevronRight} from "lucide-react";
-import {Pizza} from "@mynaui/icons-react";
+import {MenuIcon, ChevronDown, ChevronRight, Pizza} from "lucide-react";
 import Link from "next/link";
 import {Category} from "@/types/category";
 import {useState} from "react";

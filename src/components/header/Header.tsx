@@ -2,7 +2,7 @@ import woocommerce from "@/utils/woocommerce";
 import {Category} from "@/types/category";
 import Link from "next/link";
 import NavigationMenu from "@/components/navigation-menu/NavigationMenu";
-import {Pizza, Search, User} from "@mynaui/icons-react";
+import {Pizza, Search, User} from "lucide-react";
 import HamburgerMenu from "@/components/hamburger-menu/HamburgerMenu";
 
 export default async function Header() {
